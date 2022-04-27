@@ -1,0 +1,5 @@
+rootProject.name = 'Cradle'
+include 'db'
+include 'api'
+include 'service'
+
